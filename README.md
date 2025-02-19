@@ -2,7 +2,7 @@
 
 ### 📌 Disclaimer
 
-Dokumen ini ditulis dalam Bahasa Indonesia.
+This repository is written in BAHASA INDONESIA.
 
 ## Latar Belakang
 
